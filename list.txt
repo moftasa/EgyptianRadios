@@ -1,0 +1,16 @@
+جرامافون 	http://176.9.20.102:3773/listen.pls
+راديو ترام 	http://s6.voscast.com:7378/listen.pls
+حريتنا - القاهرة 	mms://196.205.121.43/horytna
+مدينة البط 	http://198.46.85.253:8000/test.aac
+Alex Hits 	http://s9.voscast.com:8396/listen.pls
+el-Gouna Radio 	http://82.201.132.237:8000/listen.pls
+البرنامج العام 	http://live.sis.gov.eg/live
+صوت الساقية 	http://soundofsakia.serverroom.us:4896/live
+شباب ورياضة 	mms://radio.onlinehorizons.net/shabawreada
+Nile FM 	http://ice31.securenetsystems.net/NILE
+نجوم أف أم 	http://ice31.securenetsystems.net/NOGOUM
+ميجا أف أم 	http://mgstrm9.twesto.com:7281/stream1.nsv
+راديو غير معروف 	http://radio.arabhosters.com:8000/ 
+مصر فون 	http://cdn.voscast.com/resources/?key=b88cdfb2e3009b4d8b68d73e83a80184&amp;c=winamp
+راديو الست 	http://176.9.20.102:5577/;stream/1
+راديو معاك 	http://www.radioma3ak.com:8000/listen.pls
