@@ -14,3 +14,4 @@ Nile FM 	http://ice31.securenetsystems.net/NILE
 مصر فون 	http://cdn.voscast.com/resources/?key=b88cdfb2e3009b4d8b68d73e83a80184&amp;c=winamp
 راديو الست 	http://176.9.20.102:5577/;stream/1
 راديو معاك 	http://www.radioma3ak.com:8000/listen.pls
+راديو مباشر (هندسة القاهرة)	http://cp.eu1.fastcast4u.com:2199/tunein/radiomub.ram
